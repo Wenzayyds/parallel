@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\dell\source\repos\小实验专用\源.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\dell\source\repos\小实验专用\源.cpp(9,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dell\source\repos\小实验专用\源.cpp(17,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dell\source\repos\小实验专用\源.cpp(31,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  小实验专用.vcxproj -> C:\Users\dell\source\repos\小实验专用\Debug\小实验专用.exe

@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\dell\source\repos\Project233\Project233\源.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\dell\source\repos\Project233\Project233\源.cpp(31,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\dell\source\repos\Project233\Project233\源.cpp(29): warning C4715: “optimal2”: 不是所有的控件路径都返回值
+  Project233.vcxproj -> C:\Users\dell\source\repos\Project233\Debug\Project233.exe
